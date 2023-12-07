@@ -1,5 +1,0 @@
-UID          PID    PPID  C STIME TTY          TIME CMD
-root           1       0  0 21:28 ?        00:00:07 /sbin/init
-root           2       0  0 21:28 ?        00:00:00 [kthreadd]
-root           3       2  0 21:28 ?        00:00:00 [rcu_gp]
-root           4       2  0 21:28 ?        00:00:00 [rcu_par_gp]

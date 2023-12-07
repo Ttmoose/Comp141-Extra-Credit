@@ -1,4 +1,0 @@
-Main.sh
-ls.txt
-pwd.txt
-read.txt
